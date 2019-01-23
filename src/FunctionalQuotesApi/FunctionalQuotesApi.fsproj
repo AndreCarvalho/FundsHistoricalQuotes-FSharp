@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <AssemblyName>FunctionalQuotesApi</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Models.fs" />
+    <Compile Include="Common.fs" />
+    <None Include="web.config" />
+    <Compile Include="Result.fs" />
+    <Compile Include="Json.fs" />
+    <Compile Include="Infrastructure.fs" />
+    <Compile Include="GetQuote.PublicTypes.fs" />
+    <Compile Include="PerformanceCalculation.PublicTypes.fs" />
+    <Compile Include="PerformanceCalculation.Implementation.fs" />
+    <Compile Include="GetQuote.Implementation.fs" />
+    <Compile Include="HttpHandlers.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Cvdm.ErrorHandling" Version="2.0.0" />
+    <PackageReference Include="FSharp.Collections.ParallelSeq" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.*" />
+    <PackageReference Include="Giraffe" Version="3.4.*" />
+    <PackageReference Include="TaskBuilder.fs" Version="2.1.*" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\bin\Debug\netcoreapp2.1\FunctionalQuotesApi.deps.json
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\bin\Debug\netcoreapp2.1\FunctionalQuotesApi.runtimeconfig.json
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\bin\Debug\netcoreapp2.1\FunctionalQuotesApi.runtimeconfig.dev.json
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\bin\Debug\netcoreapp2.1\FunctionalQuotesApi.dll
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\bin\Debug\netcoreapp2.1\FunctionalQuotesApi.pdb
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\obj\Debug\netcoreapp2.1\FunctionalQuotesApi.fsprojAssemblyReference.cache
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\obj\Debug\netcoreapp2.1\FunctionalQuotesApi.AssemblyInfoInputs.cache
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\obj\Debug\netcoreapp2.1\FunctionalQuotesApi.AssemblyInfo.fs
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\obj\Debug\netcoreapp2.1\FunctionalQuotesApi.dll
+C:\code\projects\FundsHistoricalQuotes-F#\src\FunctionalQuotesApi\obj\Debug\netcoreapp2.1\FunctionalQuotesApi.pdb
